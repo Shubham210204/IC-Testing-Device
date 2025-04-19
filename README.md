@@ -18,6 +18,9 @@ An academic project aimed at designing and building a **user-friendly IC Testing
 3. Logic functionality is verified based on expected truth tables.
 4. Output results are shown via the **LCD module**.
 
+<img src="https://github.com/Shubham210204/IC-Testing-Device/blob/main/PCB.png">
+<br>
+
 ---
 
 ## 🔧 Components Used
